@@ -1,3 +1,4 @@
 fifth git
 feature_pay branch
-conflict
+master conflict
+feature_pay conflict
